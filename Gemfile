@@ -19,6 +19,7 @@ gem 'omniauth-facebook'
 gem 'devise'
 gem 'gibbon'
 gem 'quiet_assets'
+gem 'client_side_validations', github: 'DavyJonesLocker/client_side_validations', branch: 'rails5'
 group :development do
   gem 'web-console'
   gem 'spring'
